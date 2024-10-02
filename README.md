@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vigneshr75021@gmail.com**
 
-- ⚡ Interests and hobbies **achine learning, Researching Kaggle datasets, 3d modelling, game development.**
+- ⚡ Interests and hobbies **Machine learning, Researching Kaggle datasets, 3d modelling, game development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
